@@ -1,0 +1,115 @@
+.body-fon {
+  background: #E6E6E6;
+}
+
+.header__button-search {
+  font-size: 10px;
+  color: #DF0101;
+  text-align: right;
+  background-color: #21610B;
+}
+
+.header__contact-tel {
+  font-size: 25px;
+  font-weight: bolder;
+  color: #B40404;
+  float: right;
+  border-style: dotted;
+  border-color: #585858;
+
+}
+
+.header__contact-text {
+  font-size: 30px;
+  color: #000000;
+  float: left;
+}
+
+.section__logo {
+  width: 300px;
+  height: 100px;
+  float: right;
+  opacity: 0.9;
+}
+
+.section__tittle {
+  font-size: 20px;
+  color: #21610B;
+  font-family: initial;
+}
+
+.section__subtittle {
+  font-size: 20px;
+  color: #000000;
+  display: list-item;
+  font-family: initial;
+  font-style: italic;
+}
+
+.nav__link {
+  font-size: 15px;
+  color: #B40404;
+}
+
+.article__tittle {
+  font-size: 20px;
+  color: #FFFFFF;
+  text-align: center;
+  background-color: #21610B;
+}
+
+.article__picture {
+  width: 175px;
+  height: 180px;
+  float: left;
+  border: 1px solid #60c;
+  border-collapse: separate;
+  empty-cells: hide;
+
+}
+
+.article__picture_big {
+  width: 175px;
+  height: 180px;
+  float: center;
+
+}
+
+.article__picture_small {
+  width: 175px;
+  height: 180px;
+  float: right;
+
+}
+
+.article__desc {
+  font-size: 15px;
+  color: #000000;
+  text-align: center;
+}
+
+.article__desc_big {
+  font-size: 20px;
+  color: #B40404;
+  text-align: center;
+}
+
+.article__desc-button {
+  text-align: center;
+}
+
+.footer__contact_big {
+  font-size: 20px;
+  color: #B40404;
+  text-align: left;
+}
+
+.footer__contact {
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+}
+
+.footer__button {
+  text-align: left;
+}
